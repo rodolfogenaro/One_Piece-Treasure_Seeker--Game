@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561559407 source:c:\users\manod\downloads\sdl 1.2\teste\main.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1560101004 source:c:\users\manod\downloads\sdl 1.2\cj\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+

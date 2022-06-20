@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560120333 source:c:\users\manod\downloads\sdl 1.2\batalha naval\origem.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

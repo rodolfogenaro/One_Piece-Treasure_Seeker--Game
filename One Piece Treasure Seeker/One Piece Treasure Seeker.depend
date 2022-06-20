@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1562765394 source:c:\users\manod\downloads\sdl 1.2\one piece treasure seeker\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+	"SDL_mixer.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1561579784 source:c:\users\che_f\documents\one piece treasure seeker (5)\one piece treasure seeker\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+	"SDL_mixer.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1561601121 source:c:\users\che_f\documents\one piece treasure seeker (6)\one piece treasure seeker\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+	"SDL_mixer.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1562765394 source:c:\users\manod\downloads\meus projetos\one piece treasure seeker\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+	"SDL_mixer.h"
+	<stdlib.h>
+	<math.h>
+	<time.h>
+

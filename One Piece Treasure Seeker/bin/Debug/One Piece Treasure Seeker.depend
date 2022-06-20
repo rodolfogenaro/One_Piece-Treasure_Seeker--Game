@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1561153769 source:c:\users\manod\downloads\sdl 1.2\one piece treasure seeker\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	<stdio.h>
+	"SDL_image.h"
+	"string"
+	"SDL_mixer.h"
+
